@@ -12,9 +12,9 @@
 - The game doesn’t end until one of the players loses all their lives.
 - At this point, the game should announce who won and what the other player’s score is.
 
-## Tasks
+# Tasks
 
-# Task 1: Extract Nouns for Classes
+## Task 1: Extract Nouns for Classes
 
 - Read the description above again and extract the nouns that you feel could make for important entities (manifested in the form of classes) to contain (encapsulate) logic as part of this app.
 
@@ -22,7 +22,7 @@
   - class Player
   - class MathGame
 
-# Task 2: Write their roles
+## Task 2: Write their roles
 
 Remember that objects are important for two things:
 State: Storing data describing themselves (variables)

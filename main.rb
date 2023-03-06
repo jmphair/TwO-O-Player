@@ -4,4 +4,5 @@ require './math_game'
 require './player'
 
 # Then start/play game:
-
+game = MathGame.new
+game.play
